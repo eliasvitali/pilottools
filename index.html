@@ -4,15 +4,43 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pilot Cost Sharing Calculator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        form {
+            display: grid;
+            grid-template-columns: max-content auto;
+            gap: 10px;
+            align-items: center;
+        }
+        label {
+            text-align: right;
+        }
+        input[type="number"] {
+            width: 100%;
+            padding: 5px;
+            box-sizing: border-box;
+        }
+        button {
+            grid-column: span 2;
+            padding: 10px;
+            font-size: 16px;
+        }
+        #results {
+            margin-top: 20px;
+        }
+    </style>
     <script src="calculator.js"></script>
     <script>
         function calculate() {
-            const costPerHour = parseFloat(document.getElementById('cost_per_hour').value);
-            const totalTime = parseFloat(document.getElementById('total_time').value);
-            const timeAPIC = parseFloat(document.getElementById('time_A_PIC').value);
-            const timeASafety = parseFloat(document.getElementById('time_A_safety').value);
-            const timeBPIC = parseFloat(document.getElementById('time_B_PIC').value);
-            const timeBSafety = parseFloat(document.getElementById('time_B_safety').value);
+            const costPerHour = parseFloat(document.getElementById('cost_per_hour').value) || 0;
+            const totalTime = parseFloat(document.getElementById('total_time').value) || 0;
+            const timeAPIC = parseFloat(document.getElementById('time_A_PIC').value) || 0;
+            const timeASafety = parseFloat(document.getElementById('time_A_safety').value) || 0;
+            const timeBPIC = parseFloat(document.getElementById('time_B_PIC').value) || 0;
+            const timeBSafety = parseFloat(document.getElementById('time_B_safety').value) || 0;
 
             try {
                 const results = calculateCosts(costPerHour, totalTime, timeAPIC, timeASafety, timeBPIC, timeBSafety);
@@ -34,22 +62,22 @@
     <h1>Pilot Cost Sharing Calculator</h1>
     <form onsubmit="event.preventDefault(); calculate();">
         <label for="cost_per_hour">Cost per hour to rent the airplane:</label>
-        <input type="number" step="0.01" id="cost_per_hour" required><br><br>
+        <input type="number" step="0.01" id="cost_per_hour" required><br>
 
         <label for="total_time">Total time to split:</label>
-        <input type="number" step="0.01" id="total_time" required><br><br>
+        <input type="number" step="0.01" id="total_time" required><br>
 
         <label for="time_A_PIC">Time person A was PIC:</label>
-        <input type="number" step="0.01" id="time_A_PIC" required><br><br>
+        <input type="number" step="0.01" id="time_A_PIC" required><br>
 
         <label for="time_A_safety">Time person A was safety pilot:</label>
-        <input type="number" step="0.01" id="time_A_safety" required><br><br>
+        <input type="number" step="0.01" id="time_A_safety" required><br>
 
         <label for="time_B_PIC">Time person B was PIC:</label>
-        <input type="number" step="0.01" id="time_B_PIC" required><br><br>
+        <input type="number" step="0.01" id="time_B_PIC" required><br>
 
         <label for="time_B_safety">Time person B was safety pilot:</label>
-        <input type="number" step="0.01" id="time_B_safety" required><br><br>
+        <input type="number" step="0.01" id="time_B_safety" required><br>
 
         <button type="submit">Calculate</button>
     </form>
