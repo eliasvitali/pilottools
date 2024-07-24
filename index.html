@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pilot Cost Sharing Calculator</title>
+    <script src="calculator.js"></script>
+    <script>
+        function calculate() {
+            const costPerHour = parseFloat(document.getElementById('cost_per_hour').value);
+            const totalTime = parseFloat(document.getElementById('total_time').value);
+            const timeAPIC = parseFloat(document.getElementById('time_A_PIC').value);
+            const timeASafety = parseFloat(document.getElementById('time_A_safety').value);
+            const timeBPIC = parseFloat(document.getElementById('time_B_PIC').value);
+            const timeBSafety = parseFloat(document.getElementById('time_B_safety').value);
+
+            try {
+                const results = calculateCosts(costPerHour, totalTime, timeAPIC, timeASafety, timeBPIC, timeBSafety);
+
+                document.getElementById('results').innerHTML = `
+                    <h2>Results:</h2>
+                    <p>Cost for person A: $${results.costA.toFixed(2)}</p>
+                    <p>Cost for person B: $${results.costB.toFixed(2)}</p>
+                    <p>Person A logged ${results.loggedTimeA.toFixed(2)} hours at a cost of $${results.costPerHourA.toFixed(2)} per hour.</p>
+                    <p>Person B logged ${results.loggedTimeB.toFixed(2)} hours at a cost of $${results.costPerHourB.toFixed(2)} per hour.</p>
+                `;
+            } catch (error) {
+                document.getElementById('results').innerHTML = `<p style="color: red;">${error.message}</p>`;
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>Pilot Cost Sharing Calculator</h1>
+    <form onsubmit="event.preventDefault(); calculate();">
+        <label for="cost_per_hour">Cost per hour to rent the airplane:</label>
+        <input type="number" step="0.01" id="cost_per_hour" required><br><br>
+
+        <label for="total_time">Total time to split:</label>
+        <input type="number" step="0.01" id="total_time" required><br><br>
+
+        <label for="time_A_PIC">Time person A was PIC:</label>
+        <input type="number" step="0.01" id="time_A_PIC" required><br><br>
+
+        <label for="time_A_safety">Time person A was safety pilot:</label>
+        <input type="number" step="0.01" id="time_A_safety" required><br><br>
+
+        <label for="time_B_PIC">Time person B was PIC:</label>
+        <input type="number" step="0.01" id="time_B_PIC" required><br><br>
+
+        <label for="time_B_safety">Time person B was safety pilot:</label>
+        <input type="number" step="0.01" id="time_B_safety" required><br><br>
+
+        <button type="submit">Calculate</button>
+    </form>
+    <div id="results"></div>
+</body>
+</html>
