@@ -3,20 +3,151 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tool 2</title>
+    <title>Distance Rings Generator</title>
     <style>
-        /* Add your styles here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            align-items: flex-start;
+        }
+        label {
+            width: 150px;
+            text-align: right;
+        }
+        input {
+            padding: 5px;
+            width: 200px;
+        }
+        button {
+            padding: 10px;
+            font-size: 16px;
+        }
+        #results {
+            margin-top: 20px;
+            position: relative;
+        }
+        .copy-btn, .open-skyvector-btn {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 8px 12px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .copy-btn:hover, .open-skyvector-btn:hover {
+            background-color: #45a049;
+        }
     </style>
-</head>
-<body>
-    <h1>Welcome to Tool 2</h1>
-    <p>This is another page with a completely different tool.</p>
-    <button onclick="goBack()">Go Back to Main Tool</button>
-
     <script>
-        function goBack() {
-            window.location.href = 'index.html'; // Link back to the main page
+        const icaoLatLon = {
+            "K": { lat: 37.0902, lon: -95.7129 }, // USA
+            "C": { lat: 56.1304, lon: -106.3468 }, // Canada
+            "EH": { lat: 52.3676, lon: 4.9041 }, // Netherlands
+            "ED": { lat: 51.1657, lon: 10.4515 }, // Germany
+            "EF": { lat: 61.9241, lon: 25.7482 }, // Finland
+            "EG": { lat: 55.3781, lon: -3.4360 }, // United Kingdom
+            "EI": { lat: 53.4129, lon: -8.2439 }, // Ireland
+            "EK": { lat: 56.2639, lon: 9.5018 }, // Denmark
+            "EL": { lat: 38.9637, lon: 35.2433 }, // Turkey
+            "EN": { lat: 60.4720, lon: 8.4689 }, // Norway
+            "ES": { lat: 60.1282, lon: 18.6435 }, // Sweden
+            "EV": { lat: 56.8796, lon: 24.6032 }, // Latvia
+            "EY": { lat: 55.1694, lon: 23.8813 }, // Lithuania
+            "L": { lat: 41.8719, lon: 12.5674 }, // Southern Europe (catch-all)
+            "LF": { lat: 46.6034, lon: 1.8883 }, // France
+            "LG": { lat: 39.0742, lon: 21.8243 }, // Greece
+            "LI": { lat: 41.8719, lon: 12.5674 }, // Italy
+            "LJ": { lat: 46.1512, lon: 14.9955 }, // Slovenia
+            "LK": { lat: 49.8175, lon: 15.4730 }, // Czech Republic
+            "LL": { lat: 31.0461, lon: 34.8516 }, // Israel
+            "LM": { lat: 35.9375, lon: 14.3754 }, // Malta
+            "LO": { lat: 47.5162, lon: 14.5501 }, // Austria
+            "LP": { lat: 39.3999, lon: -8.2245 }, // Portugal
+            "LS": { lat: 46.8182, lon: 8.2275 }, // Switzerland
+            "LT": { lat: 38.9637, lon: 35.2433 }, // Turkey
+            "E": { lat: 54.5260, lon: 15.2551 }, // General Europe (wide range)
+            "O": { lat: 24.0, lon: 45.0 }, // Middle East (wide range)
+            "Y": { lat: -25.2744, lon: 133.7751 }, // Australia
+            "S": { lat: -14.2350, lon: -51.9253 }, // South America (wide range)
+            "FA": { lat: -30.5595, lon: 22.9375 }, // South Africa
+            "VT": { lat: 15.8700, lon: 100.9925 }, // Thailand
+            "RJ": { lat: 36.2048, lon: 138.2529 }, // Japan
+            "Z": { lat: 35.8617, lon: 104.1954 }, // China
+            "U": { lat: 55.7558, lon: 37.6173 }, // Russia
+            "PA": { lat: 61.0, lon: -149.0 }, // Alaska
+        };
+        
+
+        async function generateRing() {
+            const icao = document.getElementById('icao').value.toUpperCase();
+            const radius = parseFloat(document.getElementById('radius').value);
+            const result = generateDistanceRing(icao, radius);
+            document.getElementById('resultText').value = result;
+
+            // Generate SkyVector URL
+            const skyvectorURL = await generateSkyVectorLink(icao, result);
+            document.getElementById('skyvectorLink').href = skyvectorURL;
+            document.getElementById('skyvectorLink').style.display = 'inline';
+        }
+
+        function generateDistanceRing(icao, radius) {
+            const points = [];
+            const numPoints = 36; // One point every 10 degrees
+            for (let i = 0; i <= numPoints; i++) { // Start at 0 degrees
+                const heading = (i * 10).toString().padStart(3, '0'); // Heading in 3 digits
+                const distance = radius.toFixed(0).padStart(3, '0'); // Distance with 3 digits
+                points.push(`${icao}${heading}${distance}`);
+            }
+            return points.join(' ');
+        }
+
+        function copyToClipboard() {
+            const resultText = document.getElementById('resultText');
+            resultText.select();
+            resultText.setSelectionRange(0, 99999); // For mobile devices
+            document.execCommand('copy');
+            alert('Copied to clipboard: ' + resultText.value);
+        }
+
+        async function getLatLonFromICAO(icao) {
+            const prefix = icao.substring(0, 2); // First two letters of ICAO code
+            const regionLatLon = icaoLatLon[prefix] || { lat: 0, lon: 0 }; // Default to 0,0 if not found
+            return regionLatLon;
+        }
+
+        async function generateSkyVectorLink(icao, waypoints) {
+            const baseURL = "https://skyvector.com/?chart=301&fpl=";
+            const formattedWaypoints = waypoints.replace(/\s+/g, '%20'); // Replace spaces with URL-friendly encoding
+
+            // Fetch the lat/lon of the ICAO code
+            const { lat, lon } = await getLatLonFromICAO(icao);
+            const latLonString = `ll=${lat},${lon}`;
+
+            return `${baseURL}${formattedWaypoints}&${latLonString}`;
         }
     </script>
+</head>
+<body>
+    <h1>Distance Rings Generator</h1>
+    <form onsubmit="event.preventDefault(); generateRing();">
+        <label for="icao">Center ICAO Code:</label>
+        <input type="text" id="icao" placeholder="e.g. KBUY" maxlength="4" required>
+        <label for="radius">Radius (nm):</label>
+        <input type="number" id="radius" placeholder="e.g. 50" required>
+        <button type="submit">Generate</button>
+    </form>
+
+    <div id="results">
+        <textarea id="resultText" rows="4" cols="50" readonly></textarea>
+        <button class="copy-btn" onclick="copyToClipboard()">Copy to Clipboard</button>
+        <a id="skyvectorLink" class="open-skyvector-btn" href="#" target="_blank" style="display:none;">Open in SkyVector</a>
+    </div>
 </body>
 </html>
