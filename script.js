@@ -23,7 +23,9 @@ async function loadQuestions() {
 }
 
 function shuffle(array) {
-  return array.map(v => [Math.random(), v]).sort((a, b) => a[0] - b[0]).map(v => v[1]);
+  return array.map(v => [Math.random(), v])
+              .sort((a, b) => a[0] - b[0])
+              .map(v => v[1]);
 }
 
 function startQuiz() {
@@ -40,10 +42,10 @@ function startQuiz() {
 
   quizQuestions = shuffle(allQuestions).slice(0, count).map(q => {
     const options = shuffle(["A", "B", "C", "D"]);
-    return { ...q, shuffled: options };
+    return { ...q, shuffled: options, userAnswer: null };
   });
 
-  document.getElementById("errorBox").textContent = ""; // Clear error
+  document.getElementById("errorBox").textContent = "";
   renderSidebar();
   currentIndex = 0;
   renderQuestion();
@@ -55,32 +57,41 @@ function renderSidebar() {
   sidebar.innerHTML = "";
   quizQuestions.forEach((q, i) => {
     const btn = document.createElement("button");
-    btn.textContent = q.number;
+    btn.textContent = `Q${i + 1}`;
     btn.onclick = () => {
+      saveAnswer();
       currentIndex = i;
       renderQuestion();
     };
+
+    if (i === currentIndex) {
+      btn.style.backgroundColor = "#007bff";
+      btn.style.color = "white";
+    } else if (q.userAnswer) {
+      btn.style.backgroundColor = "#28a745";
+      btn.style.color = "white";
+    } else {
+      btn.style.backgroundColor = "#ccc";
+      btn.style.color = "black";
+    }
+
     sidebar.appendChild(btn);
   });
 }
 
 function renderQuestion() {
   const q = quizQuestions[currentIndex];
-  if (!q) {
-    showError(`No question found at index ${currentIndex}`);
-    return;
-  }
-
   const container = document.getElementById("questionBox");
   container.innerHTML = `
     <h3>Q${currentIndex + 1} (Ref #${q.number}): ${q.question}</h3>
     ${q.shuffled.map(opt => `
       <label class="option">
-        <input type="radio" name="q${currentIndex}" value="${opt}" ${getSelectedAnswer(currentIndex) === opt ? "checked" : ""}>
+        <input type="radio" name="q${currentIndex}" value="${opt}" ${q.userAnswer === opt ? "checked" : ""}>
         ${opt}. ${q[opt]}
       </label>
     `).join("")}
   `;
+  renderSidebar(); // Update highlighting
 }
 
 function getSelectedAnswer(idx) {
@@ -88,7 +99,13 @@ function getSelectedAnswer(idx) {
   return selected ? selected.value : null;
 }
 
+function saveAnswer() {
+  const selected = getSelectedAnswer(currentIndex);
+  quizQuestions[currentIndex].userAnswer = selected;
+}
+
 function nextQuestion() {
+  saveAnswer();
   if (currentIndex < quizQuestions.length - 1) {
     currentIndex++;
     renderQuestion();
@@ -96,6 +113,7 @@ function nextQuestion() {
 }
 
 function prevQuestion() {
+  saveAnswer();
   if (currentIndex > 0) {
     currentIndex--;
     renderQuestion();
@@ -103,13 +121,10 @@ function prevQuestion() {
 }
 
 function submitQuiz() {
+  saveAnswer();
   let correct = 0;
-  quizQuestions.forEach((q, i) => {
-    const selected = getSelectedAnswer(i);
-    if (selected === q.correct) correct++;
+  quizQuestions.forEach((q) => {
+    if (q.userAnswer === q.correct) correct++;
   });
   document.getElementById("result").textContent = `You got ${correct} out of ${quizQuestions.length} correct.`;
 }
-
-// Call loadQuestions on page load
-loadQuestions();
