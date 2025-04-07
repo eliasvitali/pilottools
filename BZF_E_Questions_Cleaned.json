@@ -1,0 +1,1712 @@
+[
+  {
+    "number": 4,
+    "question": "Who requires an operator' s certificate to conduct radiotelephony communication?",
+    "A": "Sport pilot in Clas s D airs pace",
+    "B": "Student pilot on board a training airc raft in t he traffic c irc uit at an uncontrolled aerodrome",
+    "C": "Operator of an aeronautical station used ex c lusivel y for transmitting flight regularity messages",
+    "D": "Student pilot on board a training airc raft in t he traffic c irc uit at a c ontrolled aerodrome",
+    "correct": "A"
+  },
+  {
+    "number": 5,
+    "question": "Who does not need an operator's certificate to perform radiotelephony communication?",
+    "A": "Operator of a radio s tation with the call sign \"RETRIEVER (RÜCKHO LER)\"",
+    "B": "Air traffic controller",
+    "C": "Chief flying instructor at glider sites",
+    "D": "Sport pilot in Clas s C airs pace",
+    "correct": "A"
+  },
+  {
+    "number": 6,
+    "question": "Who does not need an operator's certificate to perform radiotelephony communication?",
+    "A": "Student pilot in the traf fic circuit of aerodromes with controlled/ uncontrolled air traffic control",
+    "B": "Air traffic controller",
+    "C": "Chief flying instructor at an airfield",
+    "D": "Aviation Safety Overs ight Offic er Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 8 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 10,
+    "question": "What is an aircraft station?",
+    "A": "station – A of the aeronautical mobile service on board an airc raft",
+    "B": "on board an aircraft c arrier",
+    "C": "of the aeronautical mobile service at an internati onal airport",
+    "D": "of the aeronautical mobile service at an airfield",
+    "correct": "A"
+  },
+  {
+    "number": 11,
+    "question": "What is an aeronautical station?",
+    "A": "Land s tat ion in the aeronauticalmobiles ervice. In certain instances it may be loc atedon board s hip or ona platf orm at sea",
+    "B": "Station of the aeronautic al fix ed telecommunicati on service",
+    "C": "Any station us ed to exc hange radio mess ages",
+    "D": "Station of the aeronautic al telecommunication s erv ice l ocated on land or on board a s hip f or the exc hange of radio mes s ages",
+    "correct": "A"
+  },
+  {
+    "number": 12,
+    "question": "What does the term \"BL IND TRANSMISSION\" mean?",
+    "A": "Transmission of a mess age to the air traf fic service in cas es where radio contact cannot be established",
+    "B": "Transmission of meteorological and flight operational i nf ormation to airc raft over the high seas or deserts beyond the radio c overage of VHF aeronautic al stat ions",
+    "C": "Transmission of aeronaut ic al information that is not addressed to a specif ic receiving stati on",
+    "D": "Radio mess age to be repeated by the receiving station Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 9 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 13,
+    "question": "What does the term \"G EN ERAL CALL\" mean?",
+    "A": "Stations in the aeronautic al mobile servic e may s imultaneousl y c all all stations maint aining listening watch on a frequency",
+    "B": "Transmission of reports on meteorologic al phenomena whic h could af fect the safet y of flight operations, intended for one or more specif ic stations",
+    "C": "Communication whose rec eipt has to be acknowledged",
+    "D": "Radiotelephony communic ation from an aeronautic al station to a specific airc raft s tation",
+    "correct": "A"
+  },
+  {
+    "number": 14,
+    "question": "What does the term \"HOLDING PO INT\" mean?",
+    "A": "A des ignated posit ion int ended to protec t a runway, an obstacle limitation s urfac e at which taxiing airc raf t and vehic les shall s top and hold, unless otherwis eauthorised byt he aerodrome control tower",
+    "B": "Unmark ed pos ition in the park ing area for general aviation",
+    "C": "Marked posit ion on a runway where t he t ake-off run is commenced",
+    "D": "Marked parking area on the apron of a c ommercial airport",
+    "correct": "A"
+  },
+  {
+    "number": 15,
+    "question": "Which abbreviation is used for the term \"CONTROL ZONE\"?",
+    "A": "CTR",
+    "B": "CZ",
+    "C": "CTZ",
+    "D": "CTA",
+    "correct": "A"
+  },
+  {
+    "number": 16,
+    "question": "What does the abbreviation \"IMC\" mean?",
+    "A": "Instrument Meteorological Conditions",
+    "B": "Visual Meteorological",
+    "C": "onditi ons C Instrument Flight",
+    "D": "Visual Flight",
+    "correct": "A"
+  },
+  {
+    "number": 17,
+    "question": "What does the abbreviation \"FIR\" mean?",
+    "A": "Flight Inf ormation Region",
+    "B": "Flight Inf ormation Radar",
+    "C": "Flight Inf ormation Requested",
+    "D": "Flight Inf ormation Received",
+    "correct": "A"
+  },
+  {
+    "number": 18,
+    "question": "What does the abbreviation \"H24\" mean?",
+    "A": "Cont inuous day and night servic e",
+    "B": "Suns et to s unrise",
+    "C": "No specific working hours",
+    "D": "Alt itude 2400 feet Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 10 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 19,
+    "question": "What does the abbreviation \"HX\" mean?",
+    "A": "No specific working hours",
+    "B": "Alt itude not specified",
+    "C": "Sunrise to sunset",
+    "D": "Cont inuous day and night servic e",
+    "correct": "A"
+  },
+  {
+    "number": 20,
+    "question": "What does the abbreviation \"HJ\" mean?",
+    "A": "Sunrise to sunset",
+    "B": "No specific working hours",
+    "C": "Suns et to s unrise",
+    "D": "Cont inuous day and night servic e",
+    "correct": "A"
+  },
+  {
+    "number": 21,
+    "question": "What does the abbreviation \"AIS\" mean?",
+    "A": "Aeronautical Information Services",
+    "B": "Airport Inf or mation Sys tem",
+    "C": "General Information Centre",
+    "D": "All-weat her Inf ormation Sys tem",
+    "correct": "A"
+  },
+  {
+    "number": 22,
+    "question": "What does the abbreviation \"SAR\" mean?",
+    "A": "Searc h and Res c ue",
+    "B": "\"STOP AT THE TAXI HOLDING PO INT\"",
+    "C": "Secondary Approach Radar",
+    "D": "Standard Approach Rout e",
+    "correct": "A"
+  },
+  {
+    "number": 23,
+    "question": "Which abbreviation is used for the term \"COORDI NATED UNIVERSAL TIME\"?",
+    "A": "UTC",
+    "B": "GMT",
+    "C": "Z time",
+    "D": "CUT",
+    "correct": "A"
+  },
+  {
+    "number": 24,
+    "question": "What does the abbreviation \"ATIS\" mean?",
+    "A": "Automatic Terminal Inf ormation Serv ice",
+    "B": "Air Traffic Inf ormation Serv ic e",
+    "C": "Airport Terminal Information Service",
+    "D": "Automatic Information System Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 11 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 25,
+    "question": "What does the Q Code \"Q FE\" mean?",
+    "A": "Atmos pheric press ure at aerodrome elevation or at runway thres hold",
+    "B": "Atmos pheric press ure in reference to a point on the surfac e of Earth",
+    "C": "Atmos pheric press ure in reference to the highest fixed obs tacle at an aerodrome",
+    "D": "Alt imeter sub-s cale s etting to obtain elevation when on ground",
+    "correct": "A"
+  },
+  {
+    "number": 26,
+    "question": "What does the Q Code \"Q NH\" mean?",
+    "A": "Alt imeter sub-s cale s etting to obtain aerodrome elevation when on the ground",
+    "B": "Atmos pheric press ure at aerodrome elevation or at runway thres hold",
+    "C": "Atmos pheric press ure measured at the aerodrome reference point",
+    "D": "Atmos pheric press ure in reference to the highest obstac le at an aerodrome",
+    "correct": "A"
+  },
+  {
+    "number": 29,
+    "question": "What does the Q Code \"Q DM\" mean?",
+    "A": "Magnetic heading to the station",
+    "B": "True bearing from the station",
+    "C": "Magnetic bearing from the station",
+    "D": "True heading to the station (zero wind)",
+    "correct": "A"
+  },
+  {
+    "number": 30,
+    "question": "What is the Q Co de for \" MAG NETIC HEADING TO THE STATIO N\"?",
+    "A": "QDM",
+    "B": "QNE",
+    "C": "QDR",
+    "D": "QTE Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 12 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 31,
+    "question": "What does the Q Code \"Q DR\" mean?",
+    "A": "Magnetic bearing from the station",
+    "B": "Magnetic heading to the station (zero wind)",
+    "C": "True bearing/pos ition line from the s tation",
+    "D": "True heading to the station",
+    "correct": "A"
+  },
+  {
+    "number": 32,
+    "question": "What is the Q Co de for \" MAG NETIC BEARING FR OM THE STATION\"?",
+    "A": "QDR",
+    "B": "QDM",
+    "C": "QTE",
+    "D": "QFE",
+    "correct": "A"
+  },
+  {
+    "number": 33,
+    "question": "What are Messages Relating to Direction Finding? Messages w hich –",
+    "A": "trans mit direction finding values to provide navigational assis tance",
+    "B": "relate to the failure of radio navigation equipment on board an airc raft",
+    "C": "trans mit QNH values",
+    "D": "relate to the failure of radio navigation equipment on the ground",
+    "correct": "A"
+  },
+  {
+    "number": 34,
+    "question": "In order of priority, w hich type of message precedes a Flight Safety Message?",
+    "A": "Mess ages Relating to Direc tion Finding",
+    "B": "State Telegram",
+    "C": "Meteorological Message",
+    "D": "Flight Regularity Message",
+    "correct": "A"
+  },
+  {
+    "number": 35,
+    "question": "Messages transmitted while performing ai r traffic control are –",
+    "A": "Flight Saf ety Messages",
+    "B": "Mess ages Relating to Direc tion Finding",
+    "C": "Flight Regularity Messages",
+    "D": "Ur genc y Mes s ages",
+    "correct": "A"
+  },
+  {
+    "number": 36,
+    "question": "A message concerning the safety of an ai rcraft, any other vehicle or person on board is –",
+    "A": "an Urgenc y Mess age",
+    "B": "a Flight Regularity Mess age",
+    "C": "a Dis tres s Mes s age",
+    "D": "a Flight Saf ety Mess age Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 13 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 37,
+    "question": "A message concerning aircraft parts urgently required is –",
+    "A": "a Flight Regularity Mess age",
+    "B": "an Urgenc y Mess age",
+    "C": "a Flight Saf ety Mess age",
+    "D": "an Air Traffic Control Message",
+    "correct": "A"
+  },
+  {
+    "number": 38,
+    "question": "Which of the following messages are authorized in the aeronautical mobile service?",
+    "A": "Mess ages Relating to Direc tion Finding",
+    "B": "Administrati ve Messages from the Aeronaut ical Authorities of the Lands (federal s tates)",
+    "C": "Mess ages from airc raft operators",
+    "D": "Telet ype Messages",
+    "correct": "A"
+  },
+  {
+    "number": 39,
+    "question": "A pilot's message to the control tower \"ESTIMATED TIME OF ARRIVAL 1206, PLEASE C ALL ME",
+    "A": "TAXI\" is – A an unauthori zed mess age i n the aeronautic al mobile s ervice",
+    "B": "an Urgenc y Mess age",
+    "C": "a Flight Saf ety Mess age",
+    "D": "a Flight Regularity Mess age",
+    "correct": "A"
+  },
+  {
+    "number": 41,
+    "question": "The clearance \"RUNWAY 05, CLEARED FOR TAKE-OFF\" is –",
+    "A": "a Flight Saf ety Mess age",
+    "B": "an unauthori zed mess age",
+    "C": "an Urgenc y Mess age",
+    "D": "a Flight Regularity Mess age",
+    "correct": "A"
+  },
+  {
+    "number": 42,
+    "question": "The priority of a pilot™s message \"REQ U EST QDM\" is –",
+    "A": "higher than \"CLEARED FOR TAKE-OFF\"",
+    "B": "lower than \"REQ UEST QNH\"",
+    "C": "lower than \"CLIMB FLIGHT LEVEL 85\"",
+    "D": "s ame as \"RUNWAY 32, CLEARED TO LAND\" Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 14 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 43,
+    "question": "The priority of the instruction \"TAXI TO HOLDING PO INT RUNWAY 12 VIA C\" is –",
+    "A": "s ame as \"LINE U P RUNWAY 05 AND WAIT\"",
+    "B": "lower than \"CLEARED TO LAND\"",
+    "C": "higher than \"TRANSMIT FOR BEARING\"",
+    "D": "higher than \"CAUTION CONSTRUCTION WORK LEFT O F TAXIWAY G\"",
+    "correct": "A"
+  },
+  {
+    "number": 45,
+    "question": "What is the correct w ay of spelling the call sign DEJFC?",
+    "A": "DELTA ECHO JULIETT FOXTROT CHARLIE",
+    "B": "DELTA ECHO YULIETT FO XTROTT CHARLIE",
+    "C": "DELTA ECHO JULIETT FOX CHARLIE",
+    "D": "DELTA ECHO YULIETT FO X CHARLI E",
+    "correct": "A"
+  },
+  {
+    "number": 46,
+    "question": "What is the correct w ay of spelling the call sign DIJYF?",
+    "A": "DELTA INDIA JULIETT YANKEE FOXTROT",
+    "B": "DELTA YULI ETT INDIA J ANKEE FOXTROT",
+    "C": "DELTA INDIA JULIETT YANKEE FOX",
+    "D": "DELTA INDIA JANKEE YULIETT FOXTROT",
+    "correct": "A"
+  },
+  {
+    "number": 47,
+    "question": "What is the correct w ay of transmitting the altitude of 3500 ft?",
+    "A": "THREE THOUSAND FIVE HUNDRED FEET",
+    "B": "THREE FIVE HUNDRED FEET",
+    "C": "THREE FIVE ZERO ZERO FEET",
+    "D": "THREE THOUSAND FIVE ZERO ZERO FEEET",
+    "correct": "A"
+  },
+  {
+    "number": 48,
+    "question": "What is the correct w ay of transmitting \"Q NH 1001\"?",
+    "A": "QNH one zero zero one",
+    "B": "QNH one thousand one",
+    "C": "QNH one nought nought one",
+    "D": "QNH one thousand and one Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 15 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 49,
+    "question": "What is the correct w ay of transmitting the VHF frequency 120.275 MHz?",
+    "A": "one two zero decimal two s even f ive",
+    "B": "one twenty decimal two seven",
+    "C": "one two zero decimal two s even",
+    "D": "one two zero two seven fiv e",
+    "correct": "A"
+  },
+  {
+    "number": 50,
+    "question": "What is the correct w ay of transmitting the time 1318 in order to avoid any error or confusion?",
+    "A": "one three one eight",
+    "B": "thirteen one eight",
+    "C": "thirteen eighteen",
+    "D": "one eight past thirteen hours",
+    "correct": "A"
+  },
+  {
+    "number": 55,
+    "question": "The call sign the air traf fic service uses for the Flight Information Service is:",
+    "A": "INFORMATION",
+    "B": "RADIO",
+    "C": "INFO",
+    "D": "FLIGHT INFORMATION",
+    "correct": "A"
+  },
+  {
+    "number": 56,
+    "question": "What is obtained from an aeronautical station with the call sign \"INFORMATIO N\"?",
+    "A": "Aerodrome weather",
+    "B": "Taxiing i nstructions",
+    "C": "Landing clearances",
+    "D": "Tak e-off c learances",
+    "correct": "A"
+  },
+  {
+    "number": 57,
+    "question": "When may the call sign of the aeronautical station be omitted in radiotelephony communication?",
+    "A": "After the establishing of voic e c ommunic ation",
+    "B": "When the airc raf t is in the traf fic circ uit",
+    "C": "In any radiotelephony call",
+    "D": "If conf usion with any other aircraft station is ruled out",
+    "correct": "A"
+  },
+  {
+    "number": 58,
+    "question": "The call signs of German aircraft stations compri se –",
+    "A": "the c haracters of the regis tration mark of the airc raf t",
+    "B": "the airc raf t type designator and the last three characters of the registration mark",
+    "C": "the flight number combined with the registration mark",
+    "D": "the letter \"D\" and another three l etters",
+    "correct": "A"
+  },
+  {
+    "number": 60,
+    "question": "The abbreviated call sign of an aircraft station comprises –",
+    "A": "the firs t c harac ter of the registration and at least t he las t t wo characters of the c all sign",
+    "B": "the las t three c haracters of the call s ign",
+    "C": "the las t two c haracters of the regis tration mark",
+    "D": "the airc raf t type designator c ombined wit h the last character of the call sign Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 17 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 61,
+    "question": "When shall an aircraft station use its abbreviated call sign?",
+    "A": "If it has already been us ed by the aeronautical s tation",
+    "B": "Only for flights in a traf fic circ uit",
+    "C": "In any radiotelephony call",
+    "D": "After establishment of radiotelephony contact wit h an aeronautic al stat ion",
+    "correct": "A"
+  },
+  {
+    "number": 62,
+    "question": "With which air traffic service can a pilot establish radio contact during a flight in Class C airspace?",
+    "A": "Air Traffic Control Service",
+    "B": "Air Navigation Serv ice",
+    "C": "Aeronautical Telecommunication Servic e",
+    "D": "Aeronautical Information Service",
+    "correct": "A"
+  },
+  {
+    "number": 63,
+    "question": "With which air traffic service can radio contact be established during flight?",
+    "A": "Flight Inf ormation Serv ice",
+    "B": "Aeronautical Telecommunication Servic e",
+    "C": "Air Navigation Serv ice",
+    "D": "Aeronautical Information Service",
+    "correct": "A"
+  },
+  {
+    "number": 64,
+    "question": "Which phrase shall be used if the cal l sign of the calling station is not understood?",
+    "A": "SAY AG AIN YOUR CALL SIGN",
+    "B": "MO NITOR YOUR CALL SI GN",
+    "C": "VERIFY YO UR CALL SIG N",
+    "D": "CONFIRM YOUR CALL SIGN",
+    "correct": "A"
+  },
+  {
+    "number": 66,
+    "question": "Which phrase shall be used for \"YES\"?",
+    "A": "AFFIRM",
+    "B": "ROGER",
+    "C": "CORRECT",
+    "D": "THAT™S CORRECT Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 18 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 67,
+    "question": "Which phrase shall be used for \"PERMISSION NOT G RANTED\"?",
+    "A": "NEG ATIVE",
+    "B": "FALSE",
+    "C": "INCORRECT",
+    "D": "NO",
+    "correct": "A"
+  },
+  {
+    "number": 68,
+    "question": "Which phrase shall be used for \"I H AVE RECEIVED ALL OF YOUR LAST TRANSMISSION\"?",
+    "A": "ROGER",
+    "B": "AFFIRM",
+    "C": "WILL COMPLY",
+    "D": "WILCO",
+    "correct": "A"
+  },
+  {
+    "number": 72,
+    "question": "Whichphrase shallbe usedfor \"AUTHORIZATIO N TOPROCEEDUND ER CONDITIONS SPECIFIED\"?",
+    "A": "CLEARED",
+    "B": "AFFIRM",
+    "C": "APPROVED",
+    "D": "CORRECT Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 19 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 73,
+    "question": "Which phrase shall be used to instruct a pilot to set the transponder to a spe cific mode/code?",
+    "A": "SQ UAWK",
+    "B": "OPERATE YO UR TRANSPONDER",
+    "C": "TRANSPO ND",
+    "D": "RESPOND MODE .–/CODE –.",
+    "correct": "A"
+  },
+  {
+    "number": 74,
+    "question": "The phrase \"WILCO\" means:",
+    "A": "I understand your message and will comply with it",
+    "B": "Wait and I will call you",
+    "C": "I have received all of your las t transmiss ion",
+    "D": "I repeat for clarity or emphasis",
+    "correct": "A"
+  },
+  {
+    "number": 75,
+    "question": "The phrase \"MONITOR\" means:",
+    "A": "Lis ten out on (frequenc y)",
+    "B": "Consider that transmission as not s ent",
+    "C": "Establish radio contact with (s tation)",
+    "D": "Let me know that you have rec eiv ed and unders tood this message",
+    "correct": "A"
+  },
+  {
+    "number": 78,
+    "question": "DEHOL receives clearanc e for take-off onrunway 24.How shall the pilotacknowledge the clearance?",
+    "A": "DEHOL R UNWAY 24 CLEARED FOR TAKE-OFF",
+    "B": "DEHOL",
+    "C": "LEARED FOR TAKE-OFF C DEHOL WILCO",
+    "D": "DEHOL I AM TAKING O FF Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 20 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 80,
+    "question": "What does the instruction \"(call sign) SQU AWK 1352\" from an ATC unit mean?",
+    "A": "Switc h transponder to Mode/Code 1352",
+    "B": "Count 1-3-5-2 f or radio bearing",
+    "C": "Request test transmission on frequency 135.200 MHz",
+    "D": "Switc h to frequenc y 135.200",
+    "correct": "A"
+  },
+  {
+    "number": 4,
+    "question": "MILES\", where i s the traffic in relation to your cockpit?",
+    "A": "Ahead to the left",
+    "B": "Abeam to the right",
+    "C": "Ahead to the right",
+    "D": "Directly ahead",
+    "correct": "A"
+  },
+  {
+    "number": 82,
+    "question": "When shall an initial call be transmitted?",
+    "A": "On establishing radio c ontac t",
+    "B": "Only in emergencies",
+    "C": "If message has not been unders tood",
+    "D": "In any radiotelephony communication",
+    "correct": "A"
+  },
+  {
+    "number": 83,
+    "question": "Which of the following examples is an initial call?",
+    "A": "AACHEN RADIO DELID",
+    "B": "SAARBRÜC KEN TOWER, THIS IS DIAMK",
+    "C": "HAMBURG TOWER FROM DEMIL, G O AHEAD",
+    "D": "GLIDER D2468 FORWASSERKUPPE, HOW DO YOU READ?",
+    "correct": "A"
+  },
+  {
+    "number": 84,
+    "question": "Does a \"G ENERAL CALL\" require acknowledgement?",
+    "A": "No",
+    "B": "Yes, but only by t he f irs t pil ot c alled",
+    "C": "Yes, by all pilots in any s equenc e",
+    "D": "Yes, by all pilots in the sequence called Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 21 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 85,
+    "question": "Which of the following radiotelephony calls is a \"GENERAL CALL\"?",
+    "A": "ALL STATIO NS HAMBUR G TOWER – OUT",
+    "B": "DEKOF, DIEBS, DKARL NÜRNBERG GROUND",
+    "C": "D8765 BERLIN INFORMATION",
+    "D": "LUF THANSA 123, LUFTHANSA 456",
+    "correct": "A"
+  },
+  {
+    "number": 86,
+    "question": "Which of the following calls is a \"MULTIPLE CALL\"?",
+    "A": "DEABC, DGIAL, DHHIA C ONTACT LEIPZIG TOWER (FREQ UENC Y)",
+    "B": "DIENO DELLW",
+    "C": "ALL STATIO NS THIS IS DRESDEN TOWER",
+    "D": "DEAMM ERFURT GROUND",
+    "correct": "A"
+  },
+  {
+    "number": 87,
+    "question": "Does a \"MULTIPLE CALL\" require acknowledgement?",
+    "A": "Yes, in the sequence used by t he calling station",
+    "B": "Yes, in any s equence",
+    "C": "No",
+    "D": "Yes, but only by t he f irs t calling s tation",
+    "correct": "A"
+  },
+  {
+    "number": 89,
+    "question": "What shall be taken into account before radiotel ephony communication is commenced?",
+    "A": "After s electing the c orrect frequenc y, the pilot s hall ens ure that no interference is c aused to any ongoing radiotelephony communication",
+    "B": "A radio c hec k s hall have been c arried out firs t",
+    "C": "The aircraft s hall be airborne",
+    "D": "The distanc e bet ween the aeronaut ical station and the airc raf t station shall not be les s than 30 NM",
+    "correct": "A"
+  },
+  {
+    "number": 91,
+    "question": "Radiotelephony communication during VFR flights at and above Flight Level 100 is performed in –",
+    "A": "the English language",
+    "B": "the German language",
+    "C": "any of the ICAO languages",
+    "D": "the German or English language",
+    "correct": "A"
+  },
+  {
+    "number": 99,
+    "question": "In a radio che ck, what does the message \"READ YOU TWO\" mean? The radio check is –",
+    "A": "readable now and then",
+    "B": "readable but with difficulty",
+    "C": "readable",
+    "D": "perfectly readable",
+    "correct": "A"
+  },
+  {
+    "number": 100,
+    "question": "In a radio che ck, what does the message \"READ YOU THREE\" mean? The radio check is –",
+    "A": "readable but with difficulty",
+    "B": "readable now and then",
+    "C": "readable",
+    "D": "perfectly readable",
+    "correct": "A"
+  },
+  {
+    "number": 101,
+    "question": "In a radio che ck, what does the message \"READ YOU FOUR\" mean? The radio check is –",
+    "A": "readable",
+    "B": "readable but with difficulty",
+    "C": "unreadable",
+    "D": "perfectly readable",
+    "correct": "A"
+  },
+  {
+    "number": 102,
+    "question": "In a radio che ck, what does the message \"READ YOU FIVE\" mean? The radio check is –",
+    "A": "perfectly readable",
+    "B": "unreadable",
+    "C": "readable now and then",
+    "D": "readable but with difficulty Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 24 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 103,
+    "question": "A radio check is \"readable\". How is this expressed in radiotel ephony communication?",
+    "A": "Read you four",
+    "B": "Read you three",
+    "C": "Read you loud and c lear",
+    "D": "Read you",
+    "correct": "A"
+  },
+  {
+    "number": 105,
+    "question": "What shall be included in a test transmission?",
+    "A": "The words \"RADIO CH ECK\"",
+    "B": "The words \" TRANSMI SSION CHECK\"",
+    "C": "The words \"TEST CHECK\"",
+    "D": "The words \"CHECK CHECK\"",
+    "correct": "A"
+  },
+  {
+    "number": 106,
+    "question": "Which message shall a pilot repeat?",
+    "A": "CLEARED FOR TAKE-OFF",
+    "B": "CAUTION OPPO SITE-DIR ECTIO N HELICOPTER",
+    "C": "CONSTRUCTIO N WORK LEFT O F RUNWAY",
+    "D": "SEVERE THUNDERSTORMS IN RHINE VALLEY NEAR MANNHEIM",
+    "correct": "A"
+  },
+  {
+    "number": 107,
+    "question": "Which messages shall be repeated?",
+    "A": "Alt imeter settings",
+    "B": "Traff ic information",
+    "C": "Meteorological mess ages",
+    "D": "Mess ages on runway condition",
+    "correct": "A"
+  },
+  {
+    "number": 108,
+    "question": "Which messages shall be repeated?",
+    "A": "Frequency i n the c ase of a frequency change",
+    "B": "Inf ormation c oncerning c ons truction work on runways",
+    "C": "Meteorological inf ormation",
+    "D": "Wind direction and f orc e Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 25 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 109,
+    "question": "How shall the receipt of an ATC clearance be acknowledged?",
+    "A": "By reading back the s af ety-related parts of clearanc es",
+    "B": "By pressing the microphone switch twice",
+    "C": "By transmitting one™s own abbreviat ed call s ign",
+    "D": "By pressing the microphone switch three times",
+    "correct": "A"
+  },
+  {
+    "number": 111,
+    "question": "Which elements of the instructions or information below shall be read back?",
+    "A": "Clearances, taxi instructions, runwa y-in-use, QNH, SSR codes, level instructions , heading and s peed instruc tions, frequency in the c ase of frequency change",
+    "B": "Runway in use, ground visi bility, dew point, t ake-off clearanc e, frequenc y in the c ase of frequenc y c hanges",
+    "C": "Clearances, wind direction/s peed, heading instruc tions , QNH, frequency i n the cas e of frequency changes",
+    "D": "Instructions c onc erning heading, flight level, speed, altimeter setting, flight vis ibility, wind direc tion, tak e-off c learance and frequenc y in the c ase of f requency changes",
+    "correct": "A"
+  },
+  {
+    "number": 112,
+    "question": "Which VFR flights usually require the transmission of position reports?",
+    "A": "Entering Class D airs pace",
+    "B": "All f lights in Class E airs pac e",
+    "C": "Night flights in Class G airs pace",
+    "D": "Flights above cloud in Clas s E airs pace",
+    "correct": "A"
+  },
+  {
+    "number": 116,
+    "question": "What data does a position report on flights in the traffic circuit contain?",
+    "A": "Radio call sign of the airc raf t,position",
+    "B": "Radio call sign of the airc raf t,position, t ime",
+    "C": "Radio call sign of the airc raf t,position, altitude",
+    "D": "Radio call sign of the airc raf t,position, altitude, time",
+    "correct": "A"
+  },
+  {
+    "number": 117,
+    "question": "What does this symbol on the visual operation chart mean?",
+    "A": "Compulsory reporting point",
+    "B": "Aviation obstacle",
+    "C": "Radio navigation facility",
+    "D": "Non-c ompulsory reporting point (on-request reporting point)",
+    "correct": "A"
+  },
+  {
+    "number": 118,
+    "question": "What does this symbol on the visual operation chart mean?",
+    "A": "Non-c ompulsory reporting point (on-request reporting point)",
+    "B": "Compulsory reporting point",
+    "C": "Military aerodrome",
+    "D": "Lighted obs tac le",
+    "correct": "A"
+  },
+  {
+    "number": 121,
+    "question": "Which data shall a report of departure contain if transmitted by radiotelephony?",
+    "A": "Airc raft identific at ion, departure aerodrome, time of departure, arrival aerodrome",
+    "B": "Airc raft identific at ion, departure aerodrome, time of departure",
+    "C": "Airc raft identific at ion, departure aerodrome, arrival aerodrome",
+    "D": "Airc raft identific at ion, time of departure, arrival aerodrome",
+    "correct": "A"
+  },
+  {
+    "number": 125,
+    "question": "What does \"3 to 4 OKTASﬂ in routine meteorological reports mean? The cloud amount is –",
+    "A": "SCATTERED",
+    "B": "OVERCAST",
+    "C": "BROKEN",
+    "D": "NO SIGNIFICANT CLOUDS",
+    "correct": "A"
+  },
+  {
+    "number": 126,
+    "question": "What does ﬁ 5 to 7 OKTASﬂ in routine meteorological reports mean? The cloud amount is –",
+    "A": "BROKEN",
+    "B": "FEW",
+    "C": "OVERCAST",
+    "D": "SCATTERED Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 28 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 127,
+    "question": "What does \"1 to 2 OKTASﬂ in routine meteorological reports mean? The cloud amount is –",
+    "A": "FEW",
+    "B": "BROKEN",
+    "C": "SCATTERED",
+    "D": "NO SIGNIFICANT CLOUDS",
+    "correct": "A"
+  },
+  {
+    "number": 129,
+    "question": "How are the values for flight visibility, ground visibility and runway visual range transmitted?",
+    "A": "Less than 5 k m in metres ,above in k ilometres",
+    "B": "In feet and N M",
+    "C": "Up to 1500 m in metres, above in kilometres",
+    "D": "In NM onl y",
+    "correct": "A"
+  },
+  {
+    "number": 130,
+    "question": "Which of the following ground visibility reports is correct?",
+    "A": "\"VISIBILITY THREE THOUSAND METRES\"",
+    "B": "\"VISIBILITY APPROXIMATELY NINE THOUSAND FEET\"",
+    "C": "\"VISIBILITY THREE KILO METRES\"",
+    "D": "\"VISIBILITY ON E DECIMAL EIG HT NAUTICAL MILES\"",
+    "correct": "A"
+  },
+  {
+    "number": 131,
+    "question": "What is VO LMET?",
+    "A": "Meteorological broadcas ts for aerodrome meteorologic al reports for airports",
+    "B": "Flight Inf ormation Serv ice",
+    "C": "Radio call sign for a unit of the DWD",
+    "D": "Cal l sign of the Air Traffic Adv is ory Serv ice",
+    "correct": "A"
+  },
+  {
+    "number": 132,
+    "question": "During a flight a pilot shal l request information on the aerodrome weather conditions via –",
+    "A": "ATIS",
+    "B": "GAFOR",
+    "C": "AIS-C",
+    "D": "UHF Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 29 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 133,
+    "question": "ATIS broadcasts serve to provide pilots with information. What information do they contain?",
+    "A": "Arrival and departure information f or the saf e performance of VFR and IFR flights",
+    "B": "Meteorological reports f or cross -c ountry flights in VMC",
+    "C": "Meteorological reports f or several airports",
+    "D": "The true bearing to the aerodrome of destination",
+    "correct": "A"
+  },
+  {
+    "number": 134,
+    "question": "How is SIGMET information disseminated from 0700 (0600 during the summer period) until S S+30?",
+    "A": "As an aeronautic al broadcas t on the FIS frequencies every half and full hour",
+    "B": "As an aeronautic al broadcas t on the publis hed VOLMET frequenc ies",
+    "C": "At the request of the pilot",
+    "D": "As an aeronautic al broadcas t on the ATC frequenc ies",
+    "correct": "A"
+  },
+  {
+    "number": 135,
+    "question": "SIGMET messages are for the safety of general aviation flights. What information do they contain?",
+    "A": "Signific ant meteorologic al phenomena, e.g. thunders torms , turbulence, icing",
+    "B": "Notification of the cloud bas e in Clas s es F and G airspace",
+    "C": "Rout ine meteorological reports",
+    "D": "Meteorological data in chart form, obtainable from aeronautical meteorological of fices",
+    "correct": "A"
+  },
+  {
+    "number": 136,
+    "question": "What information shall a distress message contain?",
+    "A": "Nature of the distress c ondition, intention of the pilot-in-c ommand, present posit ion, level and heading",
+    "B": "Nature of distress , cause of emergenc y, request to change frequenc y to 121. 500 MHz",
+    "C": "Nature of distress c ondition, intention of the pilot, speed",
+    "D": "Intention of the pilot, TAS, position, rate of desc ent",
+    "correct": "A"
+  },
+  {
+    "number": 137,
+    "question": "The distress signal MAYDAY means that –",
+    "A": "being threatened by s erious and/or imminent danger and of requiring immediate as sis tance",
+    "B": "a pilot has made or is about to mak e an unsc heduled landing",
+    "C": "an airc raf t is in a dif ficult sit uation",
+    "D": "a passenger on board an airc raft is seriously ill",
+    "correct": "A"
+  },
+  {
+    "number": 138,
+    "question": "A distress call shall be transmitted ...",
+    "A": "on the f requenc y used or on an emergency f requenc y",
+    "B": "s olely on a FIS f requenc y",
+    "C": "always on the emergenc y frequency 121.500 MHz",
+    "D": "on a SAR frequency Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 30 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 139,
+    "question": "How shall a distress call be initiated?",
+    "A": "MAYDAY, emitted preferably three times",
+    "B": "MAYDAY EMERGENC Y MAYDAY",
+    "C": "PAN PAN, emitted pref erably three times",
+    "D": "EMERGENC Y, emitted preferably three times",
+    "correct": "A"
+  },
+  {
+    "number": 140,
+    "question": "Which of the following signals is a distress signal?",
+    "A": "The word MAYDAY trans mitted by radiotelephony",
+    "B": "The firing of green and red flares",
+    "C": "The word PAN PAN tr ansmitted by radiot elephon y",
+    "D": "Repeated switching on and off of landing lights or navigation lights",
+    "correct": "A"
+  },
+  {
+    "number": 141,
+    "question": "How shall an urgency call be initiated?",
+    "A": "PAN PAN, emitted pref erably three times",
+    "B": "ATTENTION, I HAVE AN URGENT MESSAGE",
+    "C": "URGENCY URGENCY",
+    "D": "MAYDAY‡ emitted pref erably three times",
+    "correct": "A"
+  },
+  {
+    "number": 142,
+    "question": "The radiotelephony signal PAN PAN means that an aircraft –",
+    "A": "is in a diffic ult situation",
+    "B": "has strayed into a restric ted area",
+    "C": "has been hijacked",
+    "D": "is in imminent, serious danger and requires immediate assistance",
+    "correct": "A"
+  },
+  {
+    "number": 143,
+    "question": "Which code shall be selected on an aircraft™s transponder in a distress situation?",
+    "A": "A 7700",
+    "B": "A 7500",
+    "C": "A 7600",
+    "D": "A 7000",
+    "correct": "A"
+  },
+  {
+    "number": 144,
+    "question": "An aircraft squaw king 7700 indicates to the aeronautical station that –",
+    "A": "the airc raf t is in distress",
+    "B": "the airc raf t has ex perienced radio c ommunication f ailure",
+    "C": "the airc raf t has been hijacked",
+    "D": "the airc raf t is entering Class E airspac e Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 31 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 146,
+    "question": "What is a specific feature of a blind transmission?",
+    "A": "Themess age s hall be transmitted twice",
+    "B": "At the end of the blind trans mission, the aircraft station™s call sign is repeated",
+    "C": "Themess age s hall be transmitted three t imes",
+    "D": "At the end of the blind trans mission, the aeronautical station™s call s ign is repeated",
+    "correct": "A"
+  },
+  {
+    "number": 147,
+    "question": "What is a specific feature of a blind transmission?",
+    "A": "The time of the next intended transmiss ion is announc ed",
+    "B": "Themess age c ommences with the phrase BLIND TRANSMI SSION s poken three times",
+    "C": "At the end of the blind trans mission, the aircraft station™s call sign is repeated",
+    "D": "At the end of the blind trans mission, the aeronautical station™s call s ign is repeated",
+    "correct": "A"
+  },
+  {
+    "number": 7600,
+    "question": "B",
+    "A": "7700 C A 7500 D A 7000 149 What does an aircraft indicate to the aeronautical station when it transmits the transponder code A 7600? A Radio communic ation failure",
+    "B": "Request landing instructions",
+    "C": "Emergenc y",
+    "D": "Entering Class C airs pace",
+    "correct": "A"
+  },
+  {
+    "number": 152,
+    "question": "A pilot shall follow, on a priority basis:",
+    "A": "instruc tions by radio",
+    "B": "light signals",
+    "C": "ground signals",
+    "D": "flares disc harged at interv als of about 10 s econds, whic h burst into red or green lights and stars",
+    "correct": "A"
+  },
+  {
+    "number": 156,
+    "question": "Which designation does the frequency 121.500 MHz have?",
+    "A": "International emergenc y frequency",
+    "B": "Instruction and training frequency",
+    "C": "Inter-pilot air-to-air frequency",
+    "D": "Inf ormation frequenc y Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 33 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 158,
+    "question": "Which frequency is operated in 8.33 kHz channel spacing?",
+    "A": "134.555 MHz",
+    "B": "121.500 MHz",
+    "C": "109.550 MHz",
+    "D": "200 k Hz",
+    "correct": "A"
+  },
+  {
+    "number": 159,
+    "question": "How can a radiotel ephony frequency be blocked?",
+    "A": "Keeping the talk button depress ed",
+    "B": "Speak ing too loudly",
+    "C": "Speak ing too s oftly",
+    "D": "Switc hing the radiotelephony unit on and off",
+    "correct": "A"
+  },
+  {
+    "number": 160,
+    "question": "How do very high frequency (VHF ) waves propagate?",
+    "A": "Similar to light, i.e. \"quasi optic ally\"",
+    "B": "Similar to s hort waves but t hey are unaffec ted by atmospheric disturbances",
+    "C": "The waves travel as ground waves along the s urface of Earth and, therefore, als o penetrat e into valleys, hence they cannot be inf luenced by t opographical obstacles",
+    "D": "The waves are reflected by the ionosphere at an altitude of about 100 k m and return to the Earth's s urface as sky waves",
+    "correct": "A"
+  },
+  {
+    "number": 161,
+    "question": "Which phenomena can influence the qual ity of VFH reception in aeronautical radio?",
+    "A": "Alt itude of the airc raf t and topographical feat ures",
+    "B": "Day-night effect",
+    "C": "Ionosphere",
+    "D": "Atmos pheric s occurring particularly during thunders torms",
+    "correct": "A"
+  },
+  {
+    "number": 250,
+    "question": "MHz unlikely to encounter any problems?",
+    "A": "When the airc raf t f lies at a s ufficiently high altitude, and is close to the aeronaut ical s tat ion",
+    "B": "When the airc raf t performs a low-level f light in a valley, in radio shadow in the vic inity of the aeronautical s tation",
+    "C": "When the airc raf t f lies at a low altit ude in the radio shadow of a mountain, and is far away from the aeronautical station",
+    "D": "When the airc raf t f lies at a low altit ude, and is very far away from the aeronautical station Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 34 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 164,
+    "question": "What Air Traffic Services are there?",
+    "A": "Air Traffic Control Service, Alerting Serv ice, Flight Information Serv ice, Air Traffic Advis ory Serv ice",
+    "B": "Air Navigation Serv ice, Searc h and Res c ue, and Telec ommunic ation Serv ic es",
+    "C": "Alerting, Resc ue, Information and Advis ory Serv ices",
+    "D": "Meteorological, Advis ory, Searc h and Resc ue (SAR), and Control Serv ices",
+    "correct": "A"
+  },
+  {
+    "number": 165,
+    "question": "The Flight Information Service performs the following tasks:",
+    "A": "acc ept and f orward flight pl ans and flight plan following mes s ages",
+    "B": "dis tribute meteorological reports",
+    "C": "issue c learances",
+    "D": "organise Searc h and R escue (SAR) serv ic es",
+    "correct": "A"
+  },
+  {
+    "number": 166,
+    "question": "Who is responsible for air traffic control in the Federal R epublic of G ermany?",
+    "A": "Air navigat ion provider serv ic es authori zedbyt heFederal Superv isory Authority f or Air Nav igation Services (BAF)",
+    "B": "Federal Aviat ion Administration",
+    "C": "Aeronautical Authorities of the Lands (federal states)",
+    "D": "DFS Deuts c he Flugs ic herung G mbH",
+    "correct": "A"
+  },
+  {
+    "number": 167,
+    "question": "When is the FIS available to a pilot?",
+    "A": "During the flight",
+    "B": "During the flight but only for flights in Class es",
+    "C": "and E airs pac e C Before commencement of a flight",
+    "D": "During the flight, but only for flights in Class G airs pac e",
+    "correct": "A"
+  },
+  {
+    "number": 168,
+    "question": "Flight preparations are the responsibility of:",
+    "A": "all pilots",
+    "B": "only pilots performing c ross-c ountry f lights",
+    "C": "only pilots of power-driven aircraft",
+    "D": "inexperienced pilots Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 35 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 169,
+    "question": "Meteorological briefing shall generally be requested –",
+    "A": "for flights leav ing the vicinit y of the aerodrome of departure and for all IFR flights",
+    "B": "in the event of uncertain meteorological c onditions",
+    "C": "for flights in respect of whic h flight plans mus t be filed",
+    "D": "for commerc ial f lights",
+    "correct": "A"
+  },
+  {
+    "number": 170,
+    "question": "The time data used for aviation purposes are always based on ...",
+    "A": "Coordinat ed Univers al Time (UTC)",
+    "B": "Local time",
+    "C": "Zone t ime (Z time)",
+    "D": "CET or CEST",
+    "correct": "A"
+  },
+  {
+    "number": 171,
+    "question": "What is the measurement unit for horizontal speed in aviation?",
+    "A": "Knots",
+    "B": "Miles per minute",
+    "C": "Kilometres per hour",
+    "D": "Metres per minute",
+    "correct": "A"
+  },
+  {
+    "number": 172,
+    "question": "What is the measurement unit for vertical speed in aviation?",
+    "A": "Feet per minute",
+    "B": "Feet per sec ond",
+    "C": "Knots",
+    "D": "Metres per minute",
+    "correct": "A"
+  },
+  {
+    "number": 173,
+    "question": "What is the measurement unit for altitudes in aviation?",
+    "A": "Feet",
+    "B": "Inches",
+    "C": "Metres",
+    "D": "Kilometres",
+    "correct": "A"
+  },
+  {
+    "number": 174,
+    "question": "What is the measurement unit for distances used i n aviation for navigation purposes?",
+    "A": "Naut ical miles and tenths",
+    "B": "Knots",
+    "C": "Kilometres",
+    "D": "Miles Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 36 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 175,
+    "question": "What is the measurement unit for atmospheric pressure in aviation?",
+    "A": "Hectopas c al",
+    "B": "Atmos phere above atmospheric pressure",
+    "C": "Millimetre of merc ury",
+    "D": "Millibar",
+    "correct": "A"
+  },
+  {
+    "number": 176,
+    "question": "Which minimum height shall be observed over the congested areas of cities for VFR flights?",
+    "A": "300 m (1000 f t) above the highest obstac le wit hin a radius of 600 m from the airc raft",
+    "B": "300 m (1000 f t) above ground or the highes t obs tacle",
+    "C": "600 m (2000 f t) above the highest obstac le wit hin a radius of 150 m from the airc raft",
+    "D": "600 m (2000 f t), if no contac t to obstacles",
+    "correct": "A"
+  },
+  {
+    "number": 150,
+    "question": "m (500 ft)?",
+    "A": "150 m (500 ft) from the airc raft",
+    "B": "300 m (1000 f t) from the airc raft",
+    "C": "1,5 k m to the next obstac le",
+    "D": "No distance required",
+    "correct": "A"
+  },
+  {
+    "number": 178,
+    "question": "A power-driven aircraft and a glider are approaching head-on. Who shall give way?",
+    "A": "Both shall turn ri ght",
+    "B": "The glider",
+    "C": "The faster airc raft",
+    "D": "The power-driven airc raf t",
+    "correct": "A"
+  },
+  {
+    "number": 179,
+    "question": "Aircraft towing objects shall have the right of way over –",
+    "A": "power-driven airc raft",
+    "B": "all other airc raft",
+    "C": "gliders",
+    "D": "powered gliders wit h their engines turned of f",
+    "correct": "A"
+  },
+  {
+    "number": 181,
+    "question": "When an aircraft is in the final stages of an approach to land –",
+    "A": "an airc raf t at a lower level shall have the right of way",
+    "B": "an airc raf t at a higher level s hall have the right of way",
+    "C": "a multiple-s eated airc raf t alwa ys shall have the right of way",
+    "D": "an airc raf t at a lower level shall mak e a long landing",
+    "correct": "A"
+  },
+  {
+    "number": 182,
+    "question": "When shall all aircraft display navigation lights?",
+    "A": "At night",
+    "B": "At night and in low vis ibility c ondit ions",
+    "C": "From SS+30 to SR",
+    "D": "From SS+30 to SR+ 30",
+    "correct": "A"
+  },
+  {
+    "number": 183,
+    "question": "All aircraft in flight and fitted with anti-collision lights shall display such lights –",
+    "A": "during day and night",
+    "B": "during night onl y",
+    "C": "from tak e-off to landing at night in low v isibility c onditions",
+    "D": "by aircraft operating at night and in daytime in low v is ibility conditions",
+    "correct": "A"
+  },
+  {
+    "number": 184,
+    "question": "A horizontal red square panel with two yellow diagonals displayed in the signal area indicates:",
+    "A": "landing is prohibited for a prolonged period",
+    "B": "the aerodrom e is closed for a short time",
+    "C": "the aerodrom e is unusable for a prolonged period",
+    "D": "take-off and landing are prohibited f or a prolonged period",
+    "correct": "A"
+  },
+  {
+    "number": 185,
+    "question": "A horizontal white dumb-bell displayed in the signal area indicates:",
+    "A": "airc raf t are required to land, tak e off, and taxi on runways and taxiways onl y",
+    "B": "airc raf t is required to take off on taxiway",
+    "C": "landing is prohibited for leisure airc raft",
+    "D": "taxiway may not be used for the time being",
+    "correct": "A"
+  },
+  {
+    "number": 187,
+    "question": "A set of two digits displayed vertically at or near the aerodrome control tower indicates:",
+    "A": "the direction f or tak e-off, expressed in units of ten degrees to the nearest 10° of the magnetic compass",
+    "B": "the las t two digits of the Q N H",
+    "C": "the direction f or landing, rounded of f to the magnet ic heading",
+    "D": "the temperature",
+    "correct": "A"
+  },
+  {
+    "number": 189,
+    "question": "What does a steady green light directed toward an aircraft in flight indicate?",
+    "A": "Cleared to l and",
+    "B": "Land at this aerodrome and proc eed to apron",
+    "C": "Give way to other airc raf t and cont inue c irc l ing",
+    "D": "Return t o aerodrome of departure",
+    "correct": "A"
+  },
+  {
+    "number": 190,
+    "question": "What does a steady red li ght directed toward an aircraft in flight indicate?",
+    "A": "Give way to other airc raf t and cont inue c irc l ing",
+    "B": "Return f or landing (c learanc es to land and to taxi will be given in due cours e)",
+    "C": "Do not land, aerodrome unsafe",
+    "D": "Notwithstanding any previous instructions and c learances, do not land for the t ime being",
+    "correct": "A"
+  },
+  {
+    "number": 191,
+    "question": "What does a series of green flashes directed toward an aircraft in flight indicate?",
+    "A": "Return f or landing (c learanc es to land and to taxi will be given in due cours e)",
+    "B": "Cleared to l and",
+    "C": "Give way to other airc raf t and cont inue c irc l ing",
+    "D": "Land at this aerodrome and proc eed to apron",
+    "correct": "A"
+  },
+  {
+    "number": 192,
+    "question": "What does a series of red flashes directed toward an aircraft in flight indicate?",
+    "A": "Do not land, aerodrome unsafe",
+    "B": "Cont inue aerodrome traf fic circ uit",
+    "C": "Leave aerodrome traffic circuit",
+    "D": "Cleared to l and immediately Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 39 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 193,
+    "question": "What does a series of white flashes direct ed toward an aircraft in flight indicate?",
+    "A": "Land at this aerodrome and proc eed to apron (clearanc es to land and to taxi will be given in due c ourse)",
+    "B": "Do not land at this aerodrome",
+    "C": "Leave traffic circ uit",
+    "D": "Cont inue traf fic circuit",
+    "correct": "A"
+  },
+  {
+    "number": 194,
+    "question": "What does a red pyrotechnic light directed toward an aircraft in flight indicate?",
+    "A": "Notwithstanding any previous instructions and c learances, do not land for the t ime being",
+    "B": "Danger! Leave traffic circ uit immediately",
+    "C": "Restricted area! Leave area immediately",
+    "D": "Danger area! Leave area immediately",
+    "correct": "A"
+  },
+  {
+    "number": 195,
+    "question": "What does a steady green light directed toward an aircraft on the ground indicate?",
+    "A": "Cleared for tak e-off",
+    "B": "Stop!",
+    "C": "Return t o s tarting point on the aerodrome",
+    "D": "Cleared to taxi",
+    "correct": "A"
+  },
+  {
+    "number": 196,
+    "question": "What does a steady red li ght directed toward an aircraft on the ground indicate?",
+    "A": "Stop!",
+    "B": "Taxi c lear of landing area in use",
+    "C": "Vacate runwa y",
+    "D": "Vacate taxiway",
+    "correct": "A"
+  },
+  {
+    "number": 197,
+    "question": "What does a series of green flashes directed toward an aircraft on the ground indicate?",
+    "A": "Cleared to taxi",
+    "B": "Cleared for tak e-off",
+    "C": "Runway cl ear of obstacles",
+    "D": "Return t o s tarting point on the aerodrome",
+    "correct": "A"
+  },
+  {
+    "number": 198,
+    "question": "What does a series of red flashes directed toward an aircraft on the ground indicate?",
+    "A": "Taxi c lear of landing area in use",
+    "B": "Stop!",
+    "C": "Cleared for tak e-off",
+    "D": "Return t o s tarting point on the aerodrome Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 40 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 199,
+    "question": "What does a series of white flashes direct ed toward an aircraft on the ground indicate?",
+    "A": "Return t o s tarting point on the aerodrome",
+    "B": "Cleared for tak e-off",
+    "C": "Notwithstanding any previous instructions and c learances, do not tax i and take off for the time being",
+    "D": "Taxi c lear of landing area in use",
+    "correct": "A"
+  },
+  {
+    "number": 200,
+    "question": "Aerodrome traffic is –",
+    "A": "all thetraffic on themanoeuvring area of an aerodromeand all airc raf t flying int he v ic init y of anaerodrome. An airc raft operating in t he vic inity of an aerodrome includes but is not limited to aircraft entering or leaving an aerodrome traffic circ uit",
+    "B": "all airc raft in the aerodrome traffic circ uit",
+    "C": "all airc raft on the runway",
+    "D": "all the traffic on the manoeuvring area of an aerodrome and all aircraft entering the aerodrome traffic c irc uit",
+    "correct": "A"
+  },
+  {
+    "number": 201,
+    "question": "When does an aircraft fly ﬁ downwind 16ﬂ ? W hen it flies a heading of –",
+    "A": "340° and the aerodrome is to the lef t of the airc raf t",
+    "B": "340° and the aerodrome is to the right of the airc raf t",
+    "C": "160° and the aerodrome is to the lef t of the airc raf t",
+    "D": "160° and the aerodrome is to the right of the airc raf t",
+    "correct": "A"
+  },
+  {
+    "number": 202,
+    "question": "Changes of dir ection in the traffic circuit shall normally be made –",
+    "A": "in turns to the lef t",
+    "B": "to the s outh",
+    "C": "in turns to the right",
+    "D": "to the north",
+    "correct": "A"
+  },
+  {
+    "number": 203,
+    "question": "Changes of dir ection in the approach to landing and after take-off shall normally be made –",
+    "A": "in turns to the lef t",
+    "B": "to the s outh",
+    "C": "in turns to the right",
+    "D": "to the north",
+    "correct": "A"
+  },
+  {
+    "number": 207,
+    "question": "Flight visibility is defined as –",
+    "A": "visibility forward from the c ockpit of an aircraft in flight",
+    "B": "max imum vis ibilit y forward from the cock pit of an airc raf t on the ground",
+    "C": "visibility from the cockpit of an aircraft in flight to the ground",
+    "D": "mean slant visibility from the cockpit of an airc raf t in flight",
+    "correct": "A"
+  },
+  {
+    "number": 208,
+    "question": "The minimum horiz ontal distance from cloud on a VFR flight in Class D airspace (CTR) is:",
+    "A": "1500 m",
+    "B": "300 m",
+    "C": "1500 f t",
+    "D": "300 ft",
+    "correct": "A"
+  },
+  {
+    "number": 209,
+    "question": "VFR flights in Class E airspace below FL 100 shall be conducted so that –",
+    "A": "the pilot s hall have flight vis ibility of at least 5 km and maintain a distance from c loud of at least 1500 m horizont all y and at least 300 m (1000 ft) vertic ally",
+    "B": "the pilot shall have f light vis ibility of at leas t 8 km and maintain a dis tance from cloud of at least 500 m horizont all y and at least 300 m (1000 ft) vertic ally",
+    "C": "the pilot shall have f light vis ibility of at leas t 5 km and maintain a dis tance from cloud of at least 300 m horizont all y and at least 300 ft vertic ally",
+    "D": "the pilot shall have f light vis ibility of at leas t 8 km and maintain a dis tance from cloud of at least 1500 m horizont all y and at least 300 m (1000 ft) vertic ally",
+    "correct": "A"
+  },
+  {
+    "number": 3000,
+    "question": "ft AMSL/1000 ft AG L?",
+    "A": "Visual contact to the ground, flight vis ibility at least 1500 m, c lear of cloud",
+    "B": "Ground vis ibility at least 1500 m, clear of cloud",
+    "C": "Ground vis ibility at least 5 km, ceiling at least 1500 ft",
+    "D": "Flight vis ibility at least 1500 m, dis tance f rom the clouds at least 300 m hori zontally and at leas t 2000 ft vertically Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 42 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 3000,
+    "question": "ft AMSL/1000 ft AG L?",
+    "A": "No",
+    "B": "Yes, at least 1.5 km horizontall y and at least 1000 ft v ertically",
+    "C": "Yes, at least 1.5 km horizontall y",
+    "D": "Yes, at least 1.5 NM hori zontall y",
+    "correct": "A"
+  },
+  {
+    "number": 212,
+    "question": "In which class of airspace may special VFR flights be conducted?",
+    "A": "In Class D airs pace (CTR)",
+    "B": "In Classes",
+    "C": "and",
+    "D": "airs pace C In Class E airs pace D Only at FL 100 and above",
+    "correct": "A"
+  },
+  {
+    "number": 213,
+    "question": "When shall the standard altimeter setting be used during VFR flights?",
+    "A": "On flights above 5000 ft AMSL or 2000 ft AGL, if this level exceeds 5000 ft AMSL",
+    "B": "On flights below 5000 ft AMSL",
+    "C": "On flights up t o 5000 ft AGL",
+    "D": "Various regulations apply in this case",
+    "correct": "A"
+  },
+  {
+    "number": 218,
+    "question": "Which Flight Information Regions (FIR) under German jurisdiction are there in the lower airspace?",
+    "A": "Bremen, Langen, Munic h",
+    "B": "Berlin, Hamburg, Frank fur t, Munich",
+    "C": "Bremen, Berlin, Hannover, Düss eldorf, Stuttgart",
+    "D": "Berlin, Hannover, Maastric ht, Rhein, Langen",
+    "correct": "A"
+  },
+  {
+    "number": 219,
+    "question": "A radio mandatory zone (RMZ) reaches up to an altitude of ...",
+    "A": "1000 f t AG L",
+    "B": "1000 f t AMSL",
+    "C": "3000 f t AMSL",
+    "D": "2500 f t AG L",
+    "correct": "A"
+  },
+  {
+    "number": 220,
+    "question": "A radio mandatory zone (RMZ) reaches from the ground to ...",
+    "A": "1000 f t AG L",
+    "B": "1700 f t AG L",
+    "C": "1700 f t AG L",
+    "D": "2500 f t AG L",
+    "correct": "A"
+  },
+  {
+    "number": 221,
+    "question": "Control zones in German y are cl assified –",
+    "A": "as Class D airs pace",
+    "B": "mainly as Class D airspace, but in a f ew cases as Cl ass",
+    "C": "airs pace C around airports as Class C airs pace, for the rest as Class",
+    "D": "airs pace D around military aerodromes as Clas s B airs pace, around airports as Class C airs pace, and for the res t as Clas s D airs pac e",
+    "correct": "A"
+  },
+  {
+    "number": 223,
+    "question": "Which airspace classes are considered controlled airspace?",
+    "A": "C, D, E",
+    "B": "C, D, F",
+    "C": "E, F, G",
+    "D": "C, E, F",
+    "correct": "A"
+  },
+  {
+    "number": 224,
+    "question": "Class E airspace extends, unless otherw ise classified, –",
+    "A": "from 1000 ft AG L and 1700 ft AG L, otherwise from 2500 ft AG L to FL 100",
+    "B": "from 1000 ft and 1700 ft AGL, otherwise from 5000 ft AMSL to FL 200",
+    "C": "from 1000 ft and 1700 ft AGL to 5000 ft AMSL",
+    "D": "from 1000 ft and 1700 ft AGL, otherwise from 2500 ft AG L to FL 200",
+    "correct": "A"
+  },
+  {
+    "number": 225,
+    "question": "An \"ED-R–\" area is a –",
+    "A": "restricted area",
+    "B": "danger area",
+    "C": "prohibit ed area",
+    "D": "restricted area f or gliders",
+    "correct": "A"
+  },
+  {
+    "number": 226,
+    "question": "An \"ED-D–\" area is a –",
+    "A": "danger area",
+    "B": "restricted area",
+    "C": "military exercis e area",
+    "D": "prohibit ed area",
+    "correct": "A"
+  },
+  {
+    "number": 227,
+    "question": "When shall aircraft performing VFR cross-country flights be equipped w ith a VHF transceiver?",
+    "A": "Always",
+    "B": "Only on flights to and from aerodrom es without air traf fic control",
+    "C": "Only on int ernational f lights",
+    "D": "Only on flights to c ontrolled aerodromes",
+    "correct": "A"
+  },
+  {
+    "number": 228,
+    "question": "VFR flights over continuous cloud cov er ...",
+    "A": "may be performed if the airc raft is equipped with at leas t a VHF tr ans c eiver and a VOR rec eiver or with an ADF",
+    "B": "may not be perfor med",
+    "C": "may be performed only wit h a CVFR rating",
+    "D": "may be performed only after ATC c learanc e Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 45 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 229,
+    "question": "Aircraft on VFR flights shall be equipped with an transponder –",
+    "A": "in Class es C or D airs paces (non-c ontrol zone)",
+    "B": "in Class es",
+    "C": "or G airs paces C not require",
+    "D": "in Class es G or D airs paces (non-c ontrol zone)",
+    "correct": "A"
+  },
+  {
+    "number": 5000,
+    "question": "ft AMSL or 3500 ft AG L, w hichever is higher?",
+    "A": "A/C 7000",
+    "B": "The transponder shall not be used wit hout request",
+    "C": "A/C 7600",
+    "D": "A/C 7700",
+    "correct": "A"
+  },
+  {
+    "number": 232,
+    "question": "In transponder mandatory zones (TMZ), aircraft on VFR flights shall be equipped with an –",
+    "A": "automatic altitude reporting transponder and s hall squawk the c ode published for the respective TMZ or the code ass igned by air traffic c ontrol without reques t",
+    "B": "automatic altit ude reporting transponder which emits code 7500 without request",
+    "C": "automatic altit ude reporting transponder which emits code 7600 without request",
+    "D": "automatic altit ude reporting transponder which emits code 7700 without request",
+    "correct": "A"
+  },
+  {
+    "number": 233,
+    "question": "What is the meaning of the term \"AIRCRAFT-TO-STATION BEARING\"?",
+    "A": "Position fix ing by use of on-board navigation equipment",
+    "B": "Terrestrial navigation",
+    "C": "Position fix ing by use of radar on the ground",
+    "D": "Cr oss bearing by means of radio navigat ion stations",
+    "correct": "A"
+  },
+  {
+    "number": 234,
+    "question": "Which radio navigation equipment can be used for ground direction finding?",
+    "A": "VHF direction-finding station (VDF)",
+    "B": "VO R/DME unit",
+    "C": "NDB unit",
+    "D": "TACAN unit Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 46 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 235,
+    "question": "The identification of a VHF omnidirectional radio range (VO R) generally consists of –",
+    "A": "three Mors e code letters",
+    "B": "a f lashing signal",
+    "C": "a call s ign",
+    "D": "two Mors e code letters",
+    "correct": "A"
+  },
+  {
+    "number": 236,
+    "question": "A VOR indicator is considered a \" command unit\" when –",
+    "A": "the dis play reads \"FROM\" and the airc raft is flying away from the VOR s tation",
+    "B": "the dis play reads \"TO\" and the airc raf t is flying away f rom the VO R s tat ion",
+    "C": "the dis play reads \"O FF\" and the airc raft is approaching the VO R station",
+    "D": "the dis play reads \"FROM\" and the airc raft is approaching the VO R stat ion",
+    "correct": "A"
+  },
+  {
+    "number": 237,
+    "question": "What does the receiving range of a VHF omnidirectional radio range (VO R) depend on?",
+    "A": "Flight level of the airc raft",
+    "B": "Type of airc raf t",
+    "C": "Speed of the airc raf t",
+    "D": "Airc raft heading",
+    "correct": "A"
+  },
+  {
+    "number": 238,
+    "question": "The knob marked \"O BS\" on the VO R indicator is the –",
+    "A": "omni bearing s elector",
+    "B": "frequency selector",
+    "C": "volume c ontrol",
+    "D": "TO/FROM switch",
+    "correct": "A"
+  },
+  {
+    "number": 239,
+    "question": "Which direction is the radial of a VOR station related to?",
+    "A": "Magnetic north",
+    "B": "QTE",
+    "C": "Longitudinal axis of the airc raf t",
+    "D": "True north",
+    "correct": "A"
+  },
+  {
+    "number": 240,
+    "question": "The VHF omnidirectional radio range (VOR) operates in the frequency band –",
+    "A": "108 MHz to 117.975 MHz",
+    "B": "200 MHz to 1750 MHz",
+    "C": "108 MHz to 112 MHz",
+    "D": "118 MHz to 137 MHz Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 47 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 241,
+    "question": "When does the TO/FROM indicator on the VOR indicator change from \"TO\" to \"FRO M\"?",
+    "A": "When the airc raf t f lies over the VO R s tation",
+    "B": "When the heading is changed by 90°",
+    "C": "When the heading is changed by 180°",
+    "D": "When the ID ENT button is activated",
+    "correct": "A"
+  },
+  {
+    "number": 244,
+    "question": "What angular displacement from the radial is represented by each dot on the VO R indicator?",
+    "A": "2°",
+    "B": "10°",
+    "C": "5°",
+    "D": "1°",
+    "correct": "A"
+  },
+  {
+    "number": 247,
+    "question": "The direction of a VO R radial corresponds to the –",
+    "A": "QDR",
+    "B": "QDM",
+    "C": "QTE",
+    "D": "QUJ",
+    "correct": "A"
+  },
+  {
+    "number": 248,
+    "question": "What does the identification of a non-directional radio beacon (NDB) consist of?",
+    "A": "Two or three Mors e code letters",
+    "B": "Two or three Mors e code digits",
+    "C": "Morse code digits and letters",
+    "D": "Voice identif ication",
+    "correct": "A"
+  },
+  {
+    "number": 249,
+    "question": "Non-directional radio beacons (NDBs) generally have a designated operational range of –",
+    "A": "15 NM to 100 NM",
+    "B": "25 NM maximum",
+    "C": "60 NM minimum",
+    "D": "far more than 100 NM",
+    "correct": "A"
+  },
+  {
+    "number": 250,
+    "question": "Non-directional radio beacons (NDBs) operate in the –",
+    "A": "LW and MW band",
+    "B": "VHF band",
+    "C": "SW band",
+    "D": "UHF band",
+    "correct": "A"
+  },
+  {
+    "number": 251,
+    "question": "Which airborne navigation equipment can receive an NDB?",
+    "A": "Automatic direction-finder (ADF )",
+    "B": "Marker receiver",
+    "C": "VO R receiver",
+    "D": "ILS receiver",
+    "correct": "A"
+  },
+  {
+    "number": 253,
+    "question": "The magnetic heading of an aircraft i s 155°. The rel ative bearing is 025°. W hat is the QDM?",
+    "A": "180°",
+    "B": "360°",
+    "C": "130°",
+    "D": "025°",
+    "correct": "A"
+  },
+  {
+    "number": 257,
+    "question": "What is the purpose of secondary rada r in air traffic control?",
+    "A": "Identification of airc raft, and receipt of addit ional information concerning VFR flights",
+    "B": "Early identif ication of bad-weather areas",
+    "C": "Determination of the true airspeed of aircraft",
+    "D": "Position fix ing by the pilot",
+    "correct": "A"
+  },
+  {
+    "number": 258,
+    "question": "What information can a pilot obtain from a radar-equipped ATC unit?",
+    "A": "Position of the aircraft",
+    "B": "True airs peed of the aircraft",
+    "C": "Flight at tit ude of the airc raf t",
+    "D": "Intended f light path Prüfungsfragen i m Prüfungstei l \" Kenntni sse \" b e i Prüfunge n zum Erwerb BZF E Stand: 2024 ri cht ige Antwort immerA correct answer always A Seite 50 von 50Seiten",
+    "correct": "A"
+  },
+  {
+    "number": 259,
+    "question": "In aviation, the abbreviation \"GPS\" stands for:",
+    "A": "Global Pos itioning System",
+    "B": "Geographic al Point System",
+    "C": "Great Circ le Planning Screen",
+    "D": "GAT Positioning System",
+    "correct": "A"
+  },
+  {
+    "number": 260,
+    "question": "In aviation, the abbreviation \"GNSS\" stands for:",
+    "A": "Global N avigation Satellite System",
+    "B": "Global System f or the Standardisat ion of Terrestrial N avigation",
+    "C": "Procedure for Airc raf t Posit i oning on the Apron",
+    "D": "Ground-based Radionav igation Sys tem",
+    "correct": "A"
+  },
+  {
+    "number": 261,
+    "question": "What is a GPS receiver on board an aircraft used for?",
+    "A": "Evaluation and display of satellite signals for navigational purposes (e.g. pos ition, cours e, speed, dis tance)",
+    "B": "Position fix ing by means of on-board radar",
+    "C": "Determination of the distanc e to ot her airc raf t",
+    "D": "Evaluation of signals of ground-based radio navigation s ystems f or position and cours e fix ing",
+    "correct": "A"
+  }
+]
