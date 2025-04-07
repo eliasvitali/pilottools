@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>BZF E Quiz</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    .question {
+      margin-bottom: 20px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+    }
+    .question h3 {
+      margin-bottom: 10px;
+    }
+    .option {
+      margin-bottom: 5px;
+    }
+    button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      font-size: 16px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .result {
+      text-align: center;
+      font-size: 18px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <h1>BZF E Practice Quiz</h1>
+  <label for="questionCount">Number of questions:</label>
+  <select id="questionCount">
+    <option value="5">5</option>
+    <option value="10" selected>10</option>
+    <option value="25">25</option>
+    <option value="50">50</option>
+    <option value="100">100</option>
+  </select>
+  <button onclick="startQuiz()">Start Quiz</button>
+
+  <div id="quizContainer" style="display:none;"></div>
+  <button id="submitButton" onclick="submitQuiz()" style="display:none;">Submit Quiz</button>
+  <div id="result" class="result"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
